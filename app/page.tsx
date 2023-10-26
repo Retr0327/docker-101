@@ -1,5 +1,5 @@
 function Slides() {
-  return <>Home page</>;
+  return <>Home page slides</>;
 }
 
 export default Slides;
