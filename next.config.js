@@ -8,6 +8,7 @@ const nextConfig = {
   reactStrictMode: true,
   swcMinify: true,
   basePath: '/docker-101',
+  output: 'export',
   images: { unoptimized: true },
 };
 
